@@ -1,0 +1,36 @@
+{
+  "samplePetStore": {
+    "storeName": "Happy Pets Store"
+  },
+  
+  "sampleEmployee": {
+    "employeeName": "John Smith"
+  },
+  
+  "sampleCustomer": {
+    "customerName": "Jane Doe",
+    "customerEmail": "jane.doe@email.com"
+  },
+  
+  "samplePetStoreWithData": {
+    "storeName": "Pet Paradise",
+    "employees": [
+      {
+        "employeeName": "Alice Johnson"
+      },
+      {
+        "employeeName": "Bob Wilson"
+      }
+    ],
+    "customers": [
+      {
+        "customerName": "Charlie Brown",
+        "customerEmail": "charlie.brown@email.com"
+      },
+      {
+        "customerName": "Diana Prince",
+        "customerEmail": "diana.prince@email.com"
+      }
+    ]
+  }
+}
